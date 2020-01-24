@@ -14359,6 +14359,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Jhanmaicol\\Documents\\Azure\\Repositorios\\BitTest\\BitTest\\Views\\Home\\Prueba.cshtml",
+      "TargetPath": "Views\\Home\\Prueba.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Jhanmaicol\\Documents\\Azure\\Repositorios\\BitTest\\BitTest\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
